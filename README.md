@@ -5,6 +5,7 @@
 🕸️ https://btcdir.org/  
 📫 Contact - https://btcdir.org/contact/  
 🐥 @btcdirdotorg on twitter  
+⚡ LNURL's - BTCdir@zbd.gg or btcdir@fountain.fm
 
 <!---
 BXL909/BXL909 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
