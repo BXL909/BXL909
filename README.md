@@ -8,7 +8,7 @@
 🐥 Twitter - @btcdirdotorg  
 ⚡ LNURL's - BTCdir@zbd.gg or btcdir@fountain.fm  
 🟠 Bitcoin - bc1q039vgnn7chd4f3km8hpavyctu9g5thdrpuvmec  
-🟣 Nostr - npub1y2sgv8xwg9g63wlxq25735y9xvl4kjmwh5u92c0q2nkhurgjlstql87kmv | bxl909@NostrVerified.com
+🟣 Nostr - npub1y2sgv8xwg9g63wlxq25735y9xvl4kjmwh5u92c0q2nkhurgjlstql87kmv | BTCdir@BitcoinNostr.com
 
 
 
