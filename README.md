@@ -2,7 +2,10 @@
 🌱 I’m currently learning C# & Python, hoping it's a gentle reintroduction back into coding after a long absence.  
 👀 I’m interested in ₿itcoin & Lightning⚡among other things.  
 ⌛ Previously: BASIC, COBOL, VB, C, ASP, PHP, HTML, DirectX.  
-🕸️ https://bxl909.github.io/ | https://btcdir.org/  
+🧑‍💻 GitHub page - https://bxl909.github.io/
+🍊 SATSuma - https://satsuma.btcdir.org
+📂 BTCdir - https://btcdir.org/ 
+🧡 Support/tips - https://nodeless.io/donate/bxl909
 📫 Contact - https://btcdir.org/contact/  
 🔒 PGP fingerprint - 5154 2C52 2310 A3C7 E709 98C0 5674 AD29 DB78 314F  
 🐥 Twitter - @btcdirdotorg  
