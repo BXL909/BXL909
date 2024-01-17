@@ -11,7 +11,7 @@
 🟣 Nostr - npub1y2sgv8xwg9g63wlxq25735y9xvl4kjmwh5u92c0q2nkhurgjlstql87kmv | BTCdir@BitcoinNostr.com    
 📫 Contact - https://btcdir.org/contact/  
 🔒 PGP fingerprint - 5154 2C52 2310 A3C7 E709 98C0 5674 AD29 DB78 314F  
-🐥 Twitter - @btcdirdotorg  
+🐥 Twitter - @bxl909  
 
 
 
