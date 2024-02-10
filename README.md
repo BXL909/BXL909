@@ -3,7 +3,8 @@
 👀 I’m interested in ₿itcoin & Lightning⚡among other things.  
 ⌛ Previously: BASIC, COBOL, VB, C, ASP, PHP, HTML, DirectX.  
 🧑‍💻 GitHub page - https://bxl909.github.io/  
-🍊 SATSuma - https://satsuma.btcdir.org  
+🍊 SATSuma - https://satsuma.btcdir.org
+🟧 Cubit - https://cubit.btcdir.org
 📂 BTCdir - https://btcdir.org/  
 🧡 Support/tips - https://nodeless.io/donate/bxl909  
 ⚡ LNURL - bxl909@walletofsatoshi.com  
