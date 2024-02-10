@@ -1,11 +1,11 @@
-👋 Hi. In a past life, I wrote mediocre code for a living. My skills are out of date and I want my mediocrity back.<&nbsp;>  
+👋 Hi. In a past life, I wrote mediocre code for a living. My skills are out of date and I want my mediocrity back.&nbsp;  
 🌱 I’m currently learning C# & Python, hoping it's a gentle reintroduction back into coding after a long absence.  
 👀 I’m interested in ₿itcoin & Lightning⚡among other things.  
 ⌛ Previously: BASIC, COBOL, VB, C, ASP, PHP, HTML, DirectX.  
 🧑‍💻 GitHub page - https://bxl909.github.io/  
-🍊 SATSuma - https://satsuma.btcdir.org
-🟧 Cubit - https://cubit.btcdir.org
-📂 BTCdir - https://btcdir.org/  
+🍊 SATSuma - https://satsuma.btcdir.org &nbsp;
+🟧 Cubit - https://cubit.btcdir.org &nbsp;
+📂 BTCdir - https://btcdir.org/ &nbsp;  
 🧡 Support/tips - https://nodeless.io/donate/bxl909  
 ⚡ LNURL - bxl909@walletofsatoshi.com  
 🟠 Bitcoin - bc1q039vgnn7chd4f3km8hpavyctu9g5thdrpuvmec  
