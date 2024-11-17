@@ -1,4 +1,4 @@
-👋 Hi. In a past life, I wrote mediocre code for a living. My skills went out of date and I've been trying to regain my mediocrity since.  
+👋 Hi. In a past life, I wrote mediocre code for a living. Skills went out of date. Striving for mediocricy again.  
 👀 I’m interested in ₿itcoin & Lightning⚡among other things.  
 ⌛ Previously: BASIC, COBOL, VB, C, ASP, PHP, HTML, DirectX.  
 🧑‍💻 GitHub page - https://bxl909.github.io/  
