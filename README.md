@@ -7,7 +7,8 @@
 🦚 Bitvain - https://bitvain.btcdir.org  
 🎨 Chromaseed - https://chromaseed.btcdir.org  
 🕉️ Satadelica - https://satadelica.btcdir.org  
-📂 BTCdir - https://btcdir.org/  
+📂 BTCdir - https://btcdir.org/
+📰 The Orange Signal - https://theorangesignal.btcdir.org  
 🕹️ Hashteroids - https://hashteroids.btcdir.org  
 🕹️ ASIC Lander - https://asiclander.btcdir.org  
 🕹️ 2048 Sats - https://2048sats.btcdir.org  
