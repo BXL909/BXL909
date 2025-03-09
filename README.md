@@ -8,6 +8,7 @@
 🎨 Chromaseed - https://chromaseed.btcdir.org  
 🕉️ Satadelica - https://satadelica.btcdir.org  
 📂 BTCdir - https://btcdir.org/  
+📃 9 Pages - https://9pages.btcdir.org/  
 📰 The Orange Signal - https://theorangesignal.btcdir.org  
 🕹️ Hashteroids - https://hashteroids.btcdir.org  
 🕹️ ASIC Lander - https://asiclander.btcdir.org  
