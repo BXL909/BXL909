@@ -1,7 +1,7 @@
 👋 Hi. In a past life, I wrote mediocre code for a living. Skills went out of date. Striving for mediocricy again.  
 👀 I’m interested in ₿itcoin & Lightning⚡among other things.  
 ⌛ Previously: BASIC, COBOL, VB, C, ASP, PHP, HTML, DirectX.  
-###PROJECTS:  
+### PROJECTS:  
 🧑‍💻 GitHub page - https://bxl909.github.io/  
 🍊 SATSuma - https://satsuma.btcdir.org  
 🟧 Cubit - https://cubit.btcdir.org  
@@ -15,7 +15,7 @@
 🕹️ Hashteroids - https://hashteroids.btcdir.org  
 🕹️ ASIC Lander - https://asiclander.btcdir.org  
 🕹️ 2048 Sats - https://2048sats.btcdir.org  
-###OTHER STUFF:  
+###O THER STUFF:  
 🧡 Support/tips - https://btcdir.org/donate/  
 ⚡ LNURL - bxl909@walletofsatoshi.com  
 🟠 Bitcoin - 1BXL9o99CZVeD8jvd4pwQfDRfky1LvMqP1  
