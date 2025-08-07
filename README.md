@@ -15,7 +15,7 @@
 🕹️ Hashteroids - https://hashteroids.btcdir.org  
 🕹️ ASIC Lander - https://asiclander.btcdir.org  
 🕹️ 2048 Sats - https://2048sats.btcdir.org  
-###O THER STUFF:  
+### OTHER STUFF:  
 🧡 Support/tips - https://btcdir.org/donate/  
 ⚡ LNURL - bxl909@walletofsatoshi.com  
 🟠 Bitcoin - 1BXL9o99CZVeD8jvd4pwQfDRfky1LvMqP1  
