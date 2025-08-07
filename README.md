@@ -9,7 +9,7 @@
 🕉️ Satadelica - https://satadelica.btcdir.org  
 📂 BTCdir - https://btcdir.org/  
 📃 9 Pages - https://9pages.btcdir.org/  
-🐝 BTC Phoebe - https://phoebe.btcdir.org
+🐝 BTC Phoebe - https://phoebe.btcdir.org  
 📰 The Orange Signal - https://theorangesignal.btcdir.org  
 🕹️ Hashteroids - https://hashteroids.btcdir.org  
 🕹️ ASIC Lander - https://asiclander.btcdir.org  
