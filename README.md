@@ -24,7 +24,7 @@
 🔒 PGP fingerprint - 5154 2C52 2310 A3C7 E709 98C0 5674 AD29 DB78 314F  
 🐥 X / Twitter - @bxl909  
 
-![SATSuma](https://btcdir.org/github_buttons/SatsumaButton.png) ![Cubit](https://btcdir.org/github_buttons/CubitButton.png) 
+![SATSuma](https://btcdir.org/github_buttons/SatsumaButton.png) ![Cubit](https://btcdir.org/github_buttons/CubitButton.png) ![Bitvain](https://btcdir.org/github_buttons/BitvainButton.png) ![Chromaseed](https://btcdir.org/github_buttons/ChromaseedButton.png) ![Satadelica](https://btcdir.org/github_buttons/SatadelicaButton.png) ![BTCDir](https://btcdir.org/github_buttons/BTCdirButton.png) ![9 Pages](https://btcdir.org/github_buttons/9PagesButton.png) ![Phoebe](https://btcdir.org/github_buttons/PhoebeButton.png) ![The Orange Signal](https://btcdir.org/github_buttons/TheOrangeSignalButton.png) ![Hashteroids](https://btcdir.org/github_buttons/HashteroidsButton.png) ![ASIC Lander](https://btcdir.org/github_buttons/ASICLanderButton.png) ![2048 Sats](https://btcdir.org/github_buttons/2048SatsButton.png) 
 
 
 
