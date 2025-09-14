@@ -14,7 +14,9 @@
 🕹️ Hashteroids - https://hashteroids.btcdir.org  
 🕹️ ASIC Lander - https://asiclander.btcdir.org  
 🕹️ 2048 Sats - https://2048sats.btcdir.org  
-🐝 BTC Phoebe - https://phoebe.btcdir.org  
+🐝 BTC Phoebe - https://phoebe.btcdir.org
+🕹️ HASHCON - https://hashcon.btcdir.org
+ 
 ### OTHER STUFF:  
 🧡 Support/tips - https://btcdir.org/donate/  
 ⚡ LNURL - bxl909@walletofsatoshi.com  
