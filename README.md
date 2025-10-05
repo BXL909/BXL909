@@ -15,7 +15,7 @@
 🕹️ ASIC Lander - https://asiclander.btcdir.org  
 🕹️ 2048 Sats - https://2048sats.btcdir.org  
 🐝 BTC Phoebe - https://phoebe.btcdir.org  
-🕹️ HASHCON - https://hashcon.btcdir.org
+🕹️ HASHCON - https://hashcon.btcdir.org  
 🕹️ ORBITAL WARS - https://orbitalwars.btcdir.org
  
 ### OTHER STUFF:  
