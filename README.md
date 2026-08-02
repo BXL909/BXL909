@@ -16,7 +16,7 @@
 🕹️ 2048 Sats - https://2048sats.btcdir.org  
 🐝 BTC Phoebe - https://phoebe.btcdir.org  
 🕹️ HASHCON - https://hashcon.btcdir.org  
-🕹️ Orbital Wars - https://orbitalwars.btcdir.org
+🕹️ Orbital Wars - https://orbitalwars.btcdir.org  
 🌊 BTC Tides - https://btctides.btcdir.org
  
 ### OTHER STUFF:  
